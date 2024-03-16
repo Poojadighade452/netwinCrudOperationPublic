@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netwinCrudOperation", "netwinCrudOperation\netwinCrudOperation.csproj", "{1D9A3A2B-B3E9-4E06-AB05-EFDF520D151C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D9A3A2B-B3E9-4E06-AB05-EFDF520D151C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D9A3A2B-B3E9-4E06-AB05-EFDF520D151C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D9A3A2B-B3E9-4E06-AB05-EFDF520D151C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D9A3A2B-B3E9-4E06-AB05-EFDF520D151C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32522BD7-2709-4C78-9599-9286D07D9EB4}
+	EndGlobalSection
+EndGlobal
